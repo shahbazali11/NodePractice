@@ -1,0 +1,28 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "a node js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https:github.com/shahbazali11"
+  },
+  "keywords": [
+    "code",
+    "with",
+    "shahbaz"
+  ],
+  "author": "Muhammad Shahbaz Ali",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.18.2",
+    "mongodb": "^5.1.0",
+    "mongoose": "^7.0.1",
+    "multer": "^1.4.5-lts.1",
+    "unique-names-generator": "^4.7.1"
+  }
+}
